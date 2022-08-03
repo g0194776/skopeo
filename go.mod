@@ -1,4 +1,4 @@
-module github.com/containers/skopeo
+module github.com/g0194776/skopeo
 
 go 1.17
 

@@ -5,7 +5,7 @@ import (
 	"os/exec"
 	"testing"
 
-	"github.com/containers/skopeo/version"
+	"github.com/g0194776/skopeo/version"
 	"gopkg.in/check.v1"
 )
 

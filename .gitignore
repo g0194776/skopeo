@@ -1,6 +1,5 @@
 *.1
 /layers-*
-/skopeo
 result
 /completions/
 # ignore JetBrains IDEs (GoLand) config folder
